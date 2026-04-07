@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775567710042,
+      "tag": "0000_easy_ser_duncan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775567850515,
+      "tag": "0001_aspiring_weapon_omega",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1775569796606,
+      "tag": "0002_supreme_paper_doll",
+      "breakpoints": true
+    }
+  ]
+}
